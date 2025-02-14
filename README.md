@@ -11,13 +11,13 @@ This project involves the application of multiple classical machine learning alg
 
 - ## Non-Linear Approaches:
 
--- Kernel Trick: Utilized to transform data into higher-dimensional spaces, enabling the capture of complex, non-linear patterns.
+- - Kernel Trick: Utilized to transform data into higher-dimensional spaces, enabling the capture of complex, non-linear patterns.
 
--- Decision Trees: Employed to create hierarchical structures for decision-making, capable of handling non-linear relationships and interactions.
+- - Decision Trees: Employed to create hierarchical structures for decision-making, capable of handling non-linear relationships and interactions.
 
--- Support Vector Machines (SVMs): Applied with non-linear kernels to classify data by identifying optimal hyperplanes in transformed feature spaces.
+- - Support Vector Machines (SVMs): Applied with non-linear kernels to classify data by identifying optimal hyperplanes in transformed feature spaces.
 
-Methodology:
+# Methodology:
 
 - Data preprocessing, including normalization and feature engineering, to ensure optimal model performance.
 
